@@ -1,5 +1,3 @@
-package TestibgStuffs;
-
 public class Hello {
     public static void main(String[] args) {
         System.out.println("Another Guy Trying to not get Sleep.");
